@@ -1,0 +1,5 @@
+print("hello world") = prints hello world
+print("she said: 'Hello' and left")
+print("she said: \"hello\" and left")
+print("she said: \"she is in love\" and went away\nhearing that Shashen lost himselft")
+\n - used to print the content next line.
