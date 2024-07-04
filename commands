@@ -3,3 +3,6 @@ print("she said: 'Hello' and left")
 print("she said: \"hello\" and left")
 print("she said: \"she is in love\" and went away\nhearing that Shashen lost himselft")
 \n - used to print the content next line.
+print ("Shashen" + "bad habits") output will be shashenbad habits
+print ("Shashen" = " bad habits") output will be shashen bad habits
+print("shashen" + " " + "bad habits")
