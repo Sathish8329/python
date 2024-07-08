@@ -7,3 +7,4 @@ print ("Shashen" + "bad habits") output will be shashenbad habits
 print ("Shashen" = " bad habits") output will be shashen bad habits
 print("shashen" + " " + "bad habits")
 print("hello " + input("what is your name"))
+print(len(input("comments"))) #len command is used to count the characters
