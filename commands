@@ -8,3 +8,17 @@ print ("Shashen" = " bad habits") output will be shashen bad habits
 print("shashen" + " " + "bad habits")
 print("hello " + input("what is your name"))
 print(len(input("comments"))) #len command is used to count the characters
+
+strings
+"words in between quotes"
+
+integar
+numbers without quotes like 123
+
+floats
+decimels 12.35
+
+boolean
+True or False
+
+print("hello world[4]") #this is count the fourth character spaces are also included as character
