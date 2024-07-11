@@ -26,3 +26,5 @@ print("hello world[4]") #this is count the fourth character spaces are also incl
 round - is used round the figure like 8 / 3 output will be 3.  it rounds the decimal point, also with comma we implement the decimal
 print(round(8 /3)) 
 print(round(8 / 3, 2))
+or you can use the command like this 
+print(8 // 3)
