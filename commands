@@ -1,3 +1,4 @@
+
 print("hello world") = prints hello world
 print("she said: 'Hello' and left")
 print("she said: \"hello\" and left")
@@ -31,3 +32,6 @@ print(8 // 3)
 result = 8 / 2
 result +=1
 print(result)
+f"f string is used to convert int, string
+
+round(), floor division //, PEMDAS etc
