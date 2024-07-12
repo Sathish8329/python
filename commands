@@ -35,3 +35,8 @@ print(result)
 f"f string is used to convert int, string
 
 round(), floor division //, PEMDAS etc
+
+if condition:
+  print("comment"
+else:
+  print("comment")
