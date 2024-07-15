@@ -42,3 +42,4 @@ else:
   print("comment")
 
 % is modulo ie divided == value, we use modulo to check output is whether odd or even, so we can use int or flaots
+
