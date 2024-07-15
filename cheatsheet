@@ -1,0 +1,14 @@
+print - prints the words inside the brackets.
+input - ask questions and prints the answer.
+\n - new line
+int - numbers
+str - string 
+float - decimal
+boolean - true or false
+PEMDASLR - pracenthesis, square, multiple, division, addision, substraction, left to right.
+if condition:
+else:
+elif condition:
+  if condition:
+  else:
+
