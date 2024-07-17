@@ -1,0 +1,6 @@
+These are lists
+fruits = ["apple", "orange"]
+veg = ["potatos, onions]
+
+nested lists
+veggies = [fruits, veg]
