@@ -1,6 +1,6 @@
-These are lists
 fruits = ["apple", "orange"]
-veg = ["potatos, onions]
-
-nested lists
+veg = ["potatos", "onions"]
 veggies = [fruits, veg]
+
+print(veggies[0][1])
+the output will be orange
