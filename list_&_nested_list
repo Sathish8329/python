@@ -4,3 +4,13 @@ veggies = [fruits, veg]
 
 print(veggies[0][1])
 the output will be orange
+
+variable
+fruit = apple
+list
+fruits = ["apple", "orange", "grapes"]
+vegitables = ["pottatos", "onions", "carrot", "beans"]
+
+nested list
+fruits_veg = [fruits, vegitables]
+
